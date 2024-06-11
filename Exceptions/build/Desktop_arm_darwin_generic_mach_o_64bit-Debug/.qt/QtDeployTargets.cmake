@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_Exceptions_FILE /Users/durukan/QT_Projects/Exceptions/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/Exceptions)
