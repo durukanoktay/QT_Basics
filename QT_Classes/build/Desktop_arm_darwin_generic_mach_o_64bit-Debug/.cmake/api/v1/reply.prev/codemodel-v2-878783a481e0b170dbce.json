@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3545c0911ad920e7d740.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QT_Classes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_Classes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_Classes-Debug-08b8b19f66194489bad8.json",
+					"name" : "QT_Classes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_Classes_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_Classes_autogen-Debug-1719706f12e397ef0aa0.json",
+					"name" : "QT_Classes_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_Classes_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_Classes_autogen_timestamp_deps-Debug-5151028117520b8e6afd.json",
+					"name" : "QT_Classes_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/durukan/QT_Projects/QT_Classes/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/durukan/QT_Projects/QT_Classes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
